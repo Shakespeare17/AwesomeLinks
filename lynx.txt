@@ -1,0 +1,12 @@
+https://lynx.invisible-island.net/
+https://lynx.invisible-island.net/lynx.html
+https://lynx.invisible-island.net/current/index.html
+https://lynx.invisible-island.net/lynx2.8.9/index.html
+https://lynx.invisible-island.net/lynx-resources.html
+https://lynx.invisible-island.net/current/index.html
+https://lynx.invisible-island.net/lynx_help/lynx_help_main.html
+https://lynx.invisible-island.net/lynx_help/Lynx_users_guide.html
+https://lynx.invisible-island.net/lynx2.8.9/index.html
+http://lists.nongnu.org/mailman/listinfo/lynx-dev/
+http://invisible-island.net/public/public.html
+http://validator.w3.org/check?uri=http%3A%2F%2Flynx.invisible-island.net%2Findex.html
